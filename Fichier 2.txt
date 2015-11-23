@@ -1,0 +1,1 @@
+Ce deuxième fichier est facultatif pour le bon fonctionnement du projet.
